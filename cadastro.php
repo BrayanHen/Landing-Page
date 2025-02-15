@@ -1,1 +1,1 @@
-Obrigado pelas informações otario
+Obrigado pelas informações otario!
