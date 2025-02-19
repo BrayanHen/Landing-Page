@@ -36,6 +36,7 @@ form{
     width: min-content;
     border-radius: 5px;    
     padding: 60px;
+    min-width: 250px;
 }
 
 .input{
